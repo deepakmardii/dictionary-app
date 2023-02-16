@@ -2,7 +2,6 @@ import { createContext, useState } from "react";
 import Header from "./components/Header";
 import ResultList from "./components/ResultList";
 
-//Create Context
 export const InputContext = createContext();
 
 function App() {
